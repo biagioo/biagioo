@@ -1,8 +1,8 @@
-# Hello and Welcome! My name is [Biagio Mendolia](http://www.lorrydriveloper.com) and I'm a Software Engineer 👋
+# Hello and Welcome! My name is [Biagio Mendolia](https://biagiomendolia.vercel.app/) and I'm a Software Engineer 👋
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lorrydriveloper&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biagioo&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorrydriveloper&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biagioo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 
