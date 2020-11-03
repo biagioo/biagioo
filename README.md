@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on the [Coding Cheat Sheet](https://github.com/TeamNativeDev/CodingCheatSheetApp)
 
-- 🌱 I’m currently learning React Native!
+- 🌱 I’m currently working towards my Certified Cloud Practioner exam!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biagioo&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
