@@ -1,4 +1,4 @@
-# Hello and Welcome! My name is [Biagio Mendolia](https://biagiomendolia.vercel.app/) and I'm a Software Engineer 👋
+# Hello and Welcome! My name is [Biagio Mendolia](https://biagiomendolia.vercel.app/) and Full Stack Software Engineer/Web Developer | Applied Science + Help Desk Engineer background | Car/motorcycle enthusias 👋
 
 - 🔭 I’m currently working on the [Coding Cheat Sheet](https://github.com/TeamNativeDev/CodingCheatSheetApp)
 
