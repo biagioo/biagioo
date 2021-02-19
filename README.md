@@ -1,6 +1,6 @@
 # Hello and Welcome! My name is [Biagio Mendolia](https://biagiomendolia.vercel.app/) and I'm Full Stack Software Engineer/Web Developer with Applied Science + Help Desk Engineer background | Motorcycle/Car Enthusiast 👋
 
-- 🔭 I’m currently working on the [Github Findert](https://github.com/biagioo/github-finder)
+- 🔭 I’m currently working on the [Github Finder](https://github.com/biagioo/github-finder)
 
 - 🌱 I’m currently working towards Mastery in React!
 
