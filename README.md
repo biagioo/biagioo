@@ -1,8 +1,8 @@
 # Hello and Welcome! My name is [Biagio Mendolia](https://biagiomendolia.vercel.app/) and I'm Full Stack Software Engineer/Web Developer with Applied Science + Help Desk Engineer background | Car/motorcycle enthusias 👋
 
-- 🔭 I’m currently working on the [Coding Cheat Sheet](https://github.com/TeamNativeDev/CodingCheatSheetApp)
+- 🔭 I’m currently working on the [Github Findert](https://github.com/biagioo/github-finder)
 
-- 🌱 I’m currently working towards my Certified Cloud Practioner exam!
+- 🌱 I’m currently working towards Mastery in React!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biagioo&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
